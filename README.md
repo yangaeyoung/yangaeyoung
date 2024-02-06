@@ -15,10 +15,14 @@
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
 
 <br/><br/><br/>
+
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ae_Ong)](https://solved.ac/yoon828990)<br/>-->
 <a href="https://github.com/yangaeyoung"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon207&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
-</div>
+<br/><br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangaeyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/><br/><br/>
 
+</div>
 
 
 
