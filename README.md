@@ -6,33 +6,36 @@
 
 
   <br/><br/><br/>
-### ⚙️ Tech Stack 
+### <h1>⚙️ Tech Stack </h1>
 <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=#9B9B9B"/> <img src="https://img.shields.io/badge/Spring Boot-green?style=flat-square&logo=Springboot&logoColor=CC6699"/> <img src="https://img.shields.io/badge/JAVA-yellow?style=flat-square&logo=IntelliJidea&logoColor=000000"/> <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MariaDB&logoColor=000000"/> <img src="https://img.shields.io/badge/Gradle-gray?style=flat-square&logo=gradle&logoColor=#24A47F"/> 
 <br/>
 <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+<br/><br/>
+  
+### <h1>🍀 other</h1>
+<a href="https://liuxueshenghuo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-ff5500?styleflat-square&logo=tistory&logoColor=ffffff"/>
+<a href="https://www.notion.so/JAVA-8633fd35cbd84127bae1c229a1f5d014?pvs=4" target="_blank"><img src="https://img.shields.io/badge/NOTION-black?styleflat-square&logo=Notion&logoColor=white"/>
+</a>
 
 <br/><br/><br/>
-<!--
-### 🍀
-<a href="https://liuxueshenghuo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-orenge?style=flat-square&logo=github&logoColor=#9B9B9B"/> -->
 
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ae_Ong)](https://solved.ac/yoon828990)<br/>-->
 <a href="https://github.com/yangaeyoung"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon207&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
 <br/><br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangaeyoung&layout=compact)](https://github.com/yangaeyoung)
 <br/><br/><br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yangaeyoung&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yangaeyoung&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yangaeyoung&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yangaeyoung&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yangaeyoung&theme=chartreuse_dark&utcOffset=8)
 
-### ⚙️ Tech Stack 
-<a href="https://liuxueshenghuo.tistory.com/" target="_blank">
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yangaeyoung&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yangaeyoung&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yangaeyoung&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yangaeyoung&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yangaeyoung&theme=graywhite&utcOffset=8)
+
 </div>
 
 
