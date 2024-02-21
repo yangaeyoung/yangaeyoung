@@ -17,7 +17,7 @@
   
 ### <h1>🍀 other</h1>
 <a href="https://liuxueshenghuo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-ff5500?styleflat-square&logo=tistory&logoColor=ffffff"/>
-<a href="https://watery-school-5c0.notion.site/JAVA-8633fd35cbd84127bae1c229a1f5d014?pvs=4" target="_blank"><img src="https://img.shields.io/badge/NOTION-black?styleflat-square&logo=Notion&logoColor=white"/>
+<a href="https://watery-school-5c0.notion.site/8efcb7d34ac84545b957e5ab671a7018?pvs=4" target="_blank"><img src="https://img.shields.io/badge/NOTION-black?styleflat-square&logo=Notion&logoColor=white"/>
 </a>
 
 <br/><br/>
